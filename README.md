@@ -3,13 +3,13 @@ This game is a java Script project requested by Udacity.com to Earn Front-End Na
 
 ===============================
 
-### 1st - HOW to LOAD the GAME in your local machine
-Open [this Github repo](https://github.com/AminTechno/ArcadeGame/) and download, fork or clone the game. 
+### 1st - How to load the game in your Pc
+Open [this Github repo](https://github.com/AminTechno/ArcadeGame/) and clone, or download the game. 
 
-### 2nd - HOW to RUN the GAME online
-Open the index.html file in your browser. .  
+### 2nd - How to run the game 
+Unzip the folder and then open the index.html file in your browser. .  
 
-### 3rd - HOW to PLAY the GAME 
+### 3rd - How to play the game 
 You are the little Girl on the grass.
 The Game will start with your first move. A move is when you press your arrow keys on the keyboard.
 Bring her save to the water without colliding with any bug. 
