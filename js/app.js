@@ -85,6 +85,7 @@ Player.prototype.handleInput = function (keyPress) {
     //Resets the position of the user after reaching out to the water to the starting position
     if (this.y < 0) {
         setTimeout(() => {
+	    alert('Congratulations, You Won ');
             this.x = 202;
             this.y = 405;
         }, 800);
