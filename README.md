@@ -1,4 +1,4 @@
-# ArcadeGame.github.io
+# ArcadeGame
 This game is a java Script project requested by Udacity.com to Earn Front-End Nano Degree funded by Google
 
 ===============================
@@ -12,7 +12,7 @@ Unzip the folder and then open the index.html file in your browser. .
 ### 3rd - How to play the game 
 You are the little Girl on the grass.
 Move her up to the water by using the arrow keys on the keyboard without colliding with any bug.
-If you reached the water savely, the game is done and you can start again by clicking #ok on poped window. 
+If you reached the water savely, the game is done and you can start again by clicking ### ok on poped window. 
 
 -----
 #### Student instructions
