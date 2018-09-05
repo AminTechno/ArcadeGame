@@ -1,5 +1,4 @@
 // Enemies our player must avoid
-'use strict';
 var Enemy = function (x, y, speed) {
 
     //this variables are used to determine x, y axis and speed of the enemies
